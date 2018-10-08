@@ -685,26 +685,26 @@ SVM中使用的是Hinge损失函数：
 
 # 参考资料：
 
-1、线性回归原理和实现基本认识：https://blog.csdn.net/lisi1129/article/details/68925799
-2、从贝叶斯角度看L1及L2正则化：
-https://www.jianshu.com/p/4d562f2c06b8
-3、梯度下降（Gradient Descent）小结：https://www.cnblogs.com/pinard/p/5970503.html
-4、L1正则化及推导：https://www.jianshu.com/p/2f60e672d4f0
-5、支持向量机系列：http://blog.pluskid.org/?page_id=683
-6、合页损失函数的理解：https://blog.csdn.net/lz_peter/article/details/79614556
-7、李航统计学习方法——算法3朴素贝叶斯法：https://www.cnblogs.com/bethansy/p/7435740.html
-8、机器学习-决策树：https://www.jianshu.com/p/8c4a3ef74589
-9、集成学习系列(七)-Stacking原理及Python实现：https://www.jianshu.com/p/3d2bd58908d0
-10、集成学习—boosting和bagging异同https://www.cnblogs.com/dudumiaomiao/p/6361777.html
-11、集成学习系列(一)-随机森林算法：https://www.jianshu.com/p/8f99592658f2
-12、集成学习系列(二)-AdaBoost算法原理：
-https://www.jianshu.com/p/f2017cc696e6
-13、集成学习系列(五)-GBDT(梯度提升决策树)：
-https://www.jianshu.com/p/c32af083be5b
-14、Xgboost论文：https://arxiv.org/pdf/1603.02754v1.pdf
-15、通俗、有逻辑的写一篇说下Xgboost的原理：https://blog.csdn.net/github_38414650/article/details/76061893
-16、LightGBM 中文文档：http://lightgbm.apachecn.org/cn/latest/index.html
-17、机器学习总结（一）：常见的损失函数
-https://blog.csdn.net/weixin_37933986/article/details/68488339
+- 1、线性回归原理和实现基本认识：https://blog.csdn.net/lisi1129/article/details/68925799
+- 2、从贝叶斯角度看L1及L2正则化：
+- https://www.jianshu.com/p/4d562f2c06b8
+- 3、梯度下降（Gradient Descent）小结：https://www.cnblogs.com/pinard/p/5970503.html
+- 4、L1正则化及推导：https://www.jianshu.com/p/2f60e672d4f0
+- 5、支持向量机系列：http://blog.pluskid.org/?page_id=683
+- 6、合页损失函数的理解：https://blog.csdn.net/lz_peter/article/details/79614556
+- 7、李航统计学习方法——算法3朴素贝叶斯法：https://www.cnblogs.com/bethansy/p/7435740.html
+- 8、机器学习-决策树：https://www.jianshu.com/p/8c4a3ef74589
+- 9、集成学习系列(七)-Stacking原理及Python实现：https://www.jianshu.com/p/3d2bd58908d0
+- 10、集成学习—boosting和bagging异同https://www.cnblogs.com/dudumiaomiao/p/6361777.html
+- 11、集成学习系列(一)-随机森林算法：https://www.jianshu.com/p/8f99592658f2
+- 12、集成学习系列(二)-AdaBoost算法原理：
+- https://www.jianshu.com/p/f2017cc696e6
+- 13、集成学习系列(五)-GBDT(梯度提升决策树)：
+- https://www.jianshu.com/p/c32af083be5b
+- 14、Xgboost论文：https://arxiv.org/pdf/1603.02754v1.pdf
+- 15、通俗、有逻辑的写一篇说下Xgboost的原理：https://blog.csdn.net/github_38414650/article/details/76061893
+- 16、LightGBM 中文文档：http://lightgbm.apachecn.org/cn/latest/index.html
+- 17、机器学习总结（一）：常见的损失函数
+- https://blog.csdn.net/weixin_37933986/article/details/68488339
 
 
